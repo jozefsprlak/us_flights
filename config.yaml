@@ -1,0 +1,9 @@
+base_url: "https://transtats.bts.gov/PREZIP/"
+download_dir: "downloads"
+data_dir: "data"
+output_file: "daily_flight_counts_airport.csv"
+r_script_path: "process_flights.R"
+start_year: 2022
+start_month: 9
+end_year: 2024
+end_month: 10

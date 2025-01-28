@@ -1,0 +1,12 @@
+name: us-flight-data
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pandas
+  - pyyaml
+  - zlib
+  - pip
+  - pip:
+    - uuid
+    - pysmartdl2
